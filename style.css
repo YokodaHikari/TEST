@@ -317,12 +317,12 @@ img {
   vertical-align: middle;
 }
 
-.FirstView_main_image {
-  width: 100%;
-}
-
 .FirstView_main_image_sp {
   display: none;
+}
+
+.FirstView_main_image {
+  width: 100%;
 }
 
 @media screen and (max-width: 767px) {
